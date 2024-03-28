@@ -1,2 +1,2 @@
 # earnmoneyamir
-The blog for @earnmoney_amir channel in telegram
+The blog for https://t.me/earnmoney_amir channel in telegram
